@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FFD600</color>
+    <color name="accent_green">#2E7D32</color>
+    <color name="background">#FFF8F0</color>
+    <color name="badge_bg">#FFF8E1</color>
+    <color name="badge_border">#FFA000</color>
+    <color name="badge_gold">#FFD700</color>
+    <color name="card_shadow">#1A000000</color>
+    <color name="correct_green">#4CAF50</color>
+    <color name="district_1">#FF6B00</color>
+    <color name="district_2">#E91E63</color>
+    <color name="district_3">#9C27B0</color>
+    <color name="district_4">#3F51B5</color>
+    <color name="district_5">#009688</color>
+    <color name="district_6">#4CAF50</color>
+    <color name="district_7">#FF9800</color>
+    <color name="district_8">#F44336</color>
+    <color name="indicator_active">#FF6B00</color>
+    <color name="indicator_inactive">#FFCBA4</color>
+    <color name="option_default">#FFFFFF</color>
+    <color name="option_selected">#E3F2FD</color>
+    <color name="overlay_dark">#80000000</color>
+    <color name="primary">#FF6B00</color>
+    <color name="primary_dark">#CC5500</color>
+    <color name="primary_light">#FF9A3C</color>
+    <color name="secondary">#1A237E</color>
+    <color name="secondary_light">#3949AB</color>
+    <color name="splash_bg">#FF6B00</color>
+    <color name="story_bg_end">#FFF8F0</color>
+    <color name="story_bg_start">#FFF3E0</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#FFF3E0</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#555577</color>
+    <color name="wrong_red">#F44336</color>
+    <dimen name="badge_size">80dp</dimen>
+    <dimen name="card_radius">20dp</dimen>
+    <dimen name="district_card_height">140dp</dimen>
+    <dimen name="hero_image_size">120dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="text_body">16sp</dimen>
+    <dimen name="text_caption">13sp</dimen>
+    <dimen name="text_heading">20sp</dimen>
+    <dimen name="text_title">24sp</dimen>
+    <string name="app_name">Namma Kathey</string>
+    <string name="app_tagline">Discover Karnataka\'s Heroes</string>
+    <string name="badge_already">Badge Already Earned!</string>
+    <string name="badge_already_kn">ಈ ಬ್ಯಾಡ್ಜ್ ಈಗಾಗಲೇ ನಿಮ್ಮಲ್ಲಿದೆ!</string>
+    <string name="badge_earned">Heritage Badge Earned!</string>
+    <string name="badge_earned_kn">ಪರಂಪರೆ ಬ್ಯಾಡ್ಜ್ ಗಳಿಸಿದ್ದೀರಿ!</string>
+    <string name="badges_earned">Badges Earned</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="correct">Correct!</string>
+    <string name="district_subtitle">Tap a district to see its heroes</string>
+    <string name="district_title">Karnataka Districts</string>
+    <string name="explore_btn">Explore Heroes</string>
+    <string name="find_statue">Find Statue</string>
+    <string name="finding_location">Finding your location…</string>
+    <string name="language_toggle">ಕನ್ನಡ / English</string>
+    <string name="listen_btn">Listen</string>
+    <string name="location_permission_denied">Location permission is needed to find statues nearby.</string>
+    <string name="nav_districts">Districts</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nearest_statue">Nearest Memorial</string>
+    <string name="next_btn">Next</string>
+    <string name="next_question">Next Question</string>
+    <string name="no_badges">No badges yet. Complete quizzes to earn badges!</string>
+    <string name="prev_btn">Previous</string>
+    <string name="profile_title">My Profile</string>
+    <string name="quiz_complete">Quiz Complete!</string>
+    <string name="quiz_subtitle">Answer 3 questions to earn your Heritage Badge!</string>
+    <string name="quiz_title">Hero Quiz</string>
+    <string name="quiz_title_kn">ವೀರ ಸ್ಪರ್ಧೆ</string>
+    <string name="score_text">Your Score: %1$d/3</string>
+    <string name="select_district">Select a District</string>
+    <string name="select_district_kn">ಜಿಲ್ಲೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="splash_subtitle">ನಮ್ಮ ಕಥೆ • Namma Kathey</string>
+    <string name="statue_finder_title">Statue Finder</string>
+    <string name="stop_btn">Stop</string>
+    <string name="story_title">Hero\'s Story</string>
+    <string name="story_title_kn">ವೀರರ ಕಥೆ</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="welcome_text">Discover Local Heroes</string>
+    <string name="welcome_text_kn">ಸ್ಥಳೀಯ ವೀರರನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="wrong">Try Again!</string>
+    <string name="your_badges">Your Heritage Badges</string>
+    <style name="BadgeCardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">3dp</item>
+        <item name="cardCornerRadius">50dp</item>
+        <item name="cardBackgroundColor">@color/badge_bg</item>
+    </style>
+    <style name="CardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">6dp</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+    </style>
+    <style name="DistrictCardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">20dp</item>
+    </style>
+    <style name="PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/text_on_primary</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="QuizOptionButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/primary_light</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">start|center_vertical</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="cardBackgroundColor">@color/option_default</item>
+    </style>
+    <style name="SecondaryButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/primary</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.NammaKathey" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_light</item>
+        <item name="colorOnSecondary">@color/text_on_primary</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+    </style>
+    <style name="Theme.NammaKathey.Splash" parent="Theme.NammaKathey">
+        <item name="android:statusBarColor">@color/splash_bg</item>
+        <item name="android:navigationBarColor">@color/splash_bg</item>
+        <item name="android:windowBackground">@color/splash_bg</item>
+    </style>
+</resources>

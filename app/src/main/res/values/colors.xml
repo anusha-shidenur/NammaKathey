@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors - vibrant saffron/Karnataka palette -->
+    <color name="primary">#FF7C00</color>
+    <color name="primary_dark">#E66D00</color>
+    <color name="primary_light">#FFB366</color>
+    <color name="secondary">#1A237E</color>
+    <color name="secondary_light">#3949AB</color>
+    <color name="accent">#FFE600</color>
+    <color name="accent_green">#00C853</color>
+
+    <!-- Background - Soft, light, kid-friendly -->
+    <color name="background">#FFFBF5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#FFF5EE</color>
+
+    <!-- Text - Darker for better readability -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#666688</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_dark">#FFFFFF</color>
+
+    <!-- District card colors - Brighter and more vibrant -->
+    <color name="district_1">#FF7C00</color>
+    <color name="district_2">#FF2E89</color>
+    <color name="district_3">#D946EF</color>
+    <color name="district_4">#3B82F6</color>
+    <color name="district_5">#06B6D4</color>
+    <color name="district_6">#22C55E</color>
+    <color name="district_7">#F59E0B</color>
+    <color name="district_8">#EF4444</color>
+
+    <!-- Quiz colors -->
+    <color name="correct_green">#22C55E</color>
+    <color name="wrong_red">#EF4444</color>
+    <color name="option_default">#FFFFFF</color>
+    <color name="option_selected">#FFF3E0</color>
+
+    <!-- Badge colors -->
+    <color name="badge_gold">#FFD700</color>
+    <color name="badge_border">#FFA000</color>
+    <color name="badge_bg">#FFFACD</color>
+
+    <!-- Splash -->
+    <color name="splash_bg">#FF7C00</color>
+
+    <!-- Story page gradient colors -->
+    <color name="story_bg_start">#FFF5EE</color>
+    <color name="story_bg_end">#FFFBF5</color>
+
+    <!-- Indicator -->
+    <color name="indicator_active">#FF6B00</color>
+    <color name="indicator_inactive">#FFCBA4</color>
+
+    <!-- Shadow / overlay -->
+    <color name="card_shadow">#1A000000</color>
+    <color name="overlay_dark">#80000000</color>
+</resources>

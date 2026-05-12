@@ -1,0 +1,244 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nammakathey.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:6:5-81
+13-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:6:22-78
+14
+15    <!-- Include required permissions for Google Maps API to run. -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+21
+22    <queries>
+22-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+23
+24        <!-- Needs to be explicitly declared on Android R+ -->
+25        <package android:name="com.google.android.apps.maps" />
+25-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+25-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.12.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\8775ed491970576126584cf24be3fe11\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.nammakathey.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.12.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\8775ed491970576126584cf24be3fe11\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.12.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\8775ed491970576126584cf24be3fe11\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.nammakathey.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.12.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\8775ed491970576126584cf24be3fe11\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.12.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\8775ed491970576126584cf24be3fe11\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:8:5-56:19
+35        android:allowBackup="true"
+35-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:9:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.12.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\8775ed491970576126584cf24be3fe11\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+37        android:debuggable="true"
+38        android:extractNativeLibs="false"
+39        android:icon="@mipmap/ic_launcher"
+39-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:10:9-43
+40        android:label="@string/app_name"
+40-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:11:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:12:9-54
+42        android:supportsRtl="true"
+42-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:13:9-35
+43        android:testOnly="true"
+44        android:theme="@style/Theme.NammaKathey" >
+44-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:14:9-49
+45        <activity
+45-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:16:9-24:20
+46            android:name="com.nammakathey.app.activities.SplashActivity"
+46-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:17:13-54
+47            android:exported="true"
+47-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:18:13-36
+48            android:theme="@style/Theme.NammaKathey.Splash" >
+48-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:19:13-60
+49            <intent-filter>
+49-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:20:13-23:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:21:17-69
+50-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:21:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:22:17-77
+52-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:22:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:26:9-29:58
+56            android:name="com.nammakathey.app.activities.MainActivity"
+56-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:27:13-52
+57            android:exported="false"
+57-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:28:13-37
+58            android:windowSoftInputMode="adjustResize" />
+58-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:29:13-55
+59        <activity
+59-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:31:9-34:69
+60            android:name="com.nammakathey.app.activities.HeroListActivity"
+60-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:32:13-56
+61            android:exported="false"
+61-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:33:13-37
+62            android:parentActivityName="com.nammakathey.app.activities.MainActivity" />
+62-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:34:13-66
+63        <activity
+63-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:36:9-39:73
+64            android:name="com.nammakathey.app.activities.StoryActivity"
+64-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:37:13-53
+65            android:exported="false"
+65-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:38:13-37
+66            android:parentActivityName="com.nammakathey.app.activities.HeroListActivity" />
+66-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:39:13-70
+67        <activity
+67-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:41:9-44:70
+68            android:name="com.nammakathey.app.activities.QuizActivity"
+68-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:42:13-52
+69            android:exported="false"
+69-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:43:13-37
+70            android:parentActivityName="com.nammakathey.app.activities.StoryActivity" />
+70-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:44:13-67
+71        <activity
+71-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:46:9-49:69
+72            android:name="com.nammakathey.app.activities.ProfileActivity"
+72-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:47:13-55
+73            android:exported="false"
+73-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:48:13-37
+74            android:parentActivityName="com.nammakathey.app.activities.MainActivity" />
+74-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:49:13-66
+75        <activity
+75-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:51:9-54:70
+76            android:name="com.nammakathey.app.activities.StatueFinderActivity"
+76-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:52:13-60
+77            android:exported="false"
+77-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:53:13-37
+78            android:parentActivityName="com.nammakathey.app.activities.StoryActivity" />
+78-->C:\Users\SDX AMRUT\Downloads\NammaKathey.tar\NammaKathey\app\src\main\AndroidManifest.xml:54:13-67
+79
+80        <!-- Needs to be explicitly declared on P+ -->
+81        <uses-library
+81-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+82            android:name="org.apache.http.legacy"
+82-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+83            android:required="false" />
+83-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\58377ef2bf5d80b886aa452ade998aa1\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+84
+85        <activity
+85-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\16e69225584b986b5bd6cf5d6ecfea8b\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+86            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+86-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\16e69225584b986b5bd6cf5d6ecfea8b\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+87            android:exported="false"
+87-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\16e69225584b986b5bd6cf5d6ecfea8b\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+88-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\16e69225584b986b5bd6cf5d6ecfea8b\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+89
+90        <meta-data
+90-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\ef24b2c6368d9eeea27fe325363e7071\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+91            android:name="com.google.android.gms.version"
+91-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\ef24b2c6368d9eeea27fe325363e7071\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+92            android:value="@integer/google_play_services_version" />
+92-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\ef24b2c6368d9eeea27fe325363e7071\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+93
+94        <provider
+94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\3a7ada3a889b9ea2c31a262f7dbe4410\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+95            android:name="androidx.startup.InitializationProvider"
+95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\3a7ada3a889b9ea2c31a262f7dbe4410\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+96            android:authorities="com.nammakathey.app.androidx-startup"
+96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\3a7ada3a889b9ea2c31a262f7dbe4410\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+97            android:exported="false" >
+97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\3a7ada3a889b9ea2c31a262f7dbe4410\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+98            <meta-data
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\3a7ada3a889b9ea2c31a262f7dbe4410\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+99                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\3a7ada3a889b9ea2c31a262f7dbe4410\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+100                android:value="androidx.startup" />
+100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\3a7ada3a889b9ea2c31a262f7dbe4410\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+101            <meta-data
+101-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\44cc79cfd0a36b173e6d243d6e0a0363\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+102                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+102-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\44cc79cfd0a36b173e6d243d6e0a0363\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+103                android:value="androidx.startup" />
+103-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\44cc79cfd0a36b173e6d243d6e0a0363\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+104            <meta-data
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+105                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+106                android:value="androidx.startup" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+107        </provider>
+108
+109        <uses-library
+109-->[androidx.window:window:1.0.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\9e3f22f946f74765209182d77a21ec90\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+110            android:name="androidx.window.extensions"
+110-->[androidx.window:window:1.0.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\9e3f22f946f74765209182d77a21ec90\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+111            android:required="false" />
+111-->[androidx.window:window:1.0.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\9e3f22f946f74765209182d77a21ec90\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+112        <uses-library
+112-->[androidx.window:window:1.0.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\9e3f22f946f74765209182d77a21ec90\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+113            android:name="androidx.window.sidecar"
+113-->[androidx.window:window:1.0.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\9e3f22f946f74765209182d77a21ec90\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+114            android:required="false" />
+114-->[androidx.window:window:1.0.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\9e3f22f946f74765209182d77a21ec90\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+115
+116        <receiver
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+117            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+118            android:directBootAware="false"
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+119            android:enabled="true"
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+120            android:exported="true"
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+121            android:permission="android.permission.DUMP" >
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+122            <intent-filter>
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+123                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+124            </intent-filter>
+125            <intent-filter>
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+126                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+126-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+126-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+127            </intent-filter>
+128            <intent-filter>
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+129                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+130            </intent-filter>
+131            <intent-filter>
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+132                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SDX AMRUT\.gradle\caches\transforms-3\90a64130ec507173f2e223ecf3b43bfc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+133            </intent-filter>
+134        </receiver>
+135    </application>
+136
+137</manifest>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Kathey</string>
+    <string name="app_tagline">Discover Karnataka\'s Heroes</string>
+    <string name="splash_subtitle">ನಮ್ಮ ಕಥೆ • Namma Kathey</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_districts">Districts</string>
+
+    <!-- Home -->
+    <string name="welcome_text">Discover Local Heroes</string>
+    <string name="select_district">Select a District</string>
+    <string name="your_badges">Your Heritage Badges</string>
+    <string name="explore_btn">Explore Heroes</string>
+    <string name="language_toggle">ಕನ್ನಡ / English</string>
+
+    <!-- District Map -->
+    <string name="district_title">Karnataka Districts</string>
+    <string name="district_subtitle">Tap a district to see its heroes</string>
+
+    <!-- Story -->
+    <string name="story_title">Hero\'s Story</string>
+    <string name="listen_btn">Listen</string>
+    <string name="stop_btn">Stop</string>
+    <string name="next_btn">Next</string>
+    <string name="prev_btn">Previous</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="find_statue">Find Statue</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">Hero Quiz</string>
+    <string name="quiz_subtitle">Answer 3 questions to earn your Heritage Badge!</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="next_question">Next Question</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Try Again!</string>
+    <string name="quiz_complete">Quiz Complete!</string>
+    <string name="badge_earned">Heritage Badge Earned!</string>
+    <string name="badge_already">Badge Already Earned!</string>
+    <string name="score_text">Your Score: %1$d/3</string>
+
+    <!-- Profile -->
+    <string name="profile_title">My Profile</string>
+    <string name="badges_earned">Badges Earned</string>
+    <string name="no_badges">No badges yet. Complete quizzes to earn badges!</string>
+
+    <!-- Statue Finder -->
+    <string name="statue_finder_title">Statue Finder</string>
+    <string name="location_permission_denied">Location permission is needed to find statues nearby.</string>
+    <string name="finding_location">Finding your location…</string>
+    <string name="nearest_statue">Nearest Memorial</string>
+
+    <!-- Kannada versions -->
+    <string name="welcome_text_kn">ಸ್ಥಳೀಯ ವೀರರನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="select_district_kn">ಜಿಲ್ಲೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="story_title_kn">ವೀರರ ಕಥೆ</string>
+    <string name="quiz_title_kn">ವೀರ ಸ್ಪರ್ಧೆ</string>
+    <string name="badge_earned_kn">ಪರಂಪರೆ ಬ್ಯಾಡ್ಜ್ ಗಳಿಸಿದ್ದೀರಿ!</string>
+    <string name="badge_already_kn">ಈ ಬ್ಯಾಡ್ಜ್ ಈಗಾಗಲೇ ನಿಮ್ಮಲ್ಲಿದೆ!</string>
+</resources>

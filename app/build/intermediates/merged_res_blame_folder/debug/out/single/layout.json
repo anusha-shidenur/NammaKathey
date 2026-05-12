@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/activity_profile.xml",
+        "source": "com.nammakathey.app-main-48:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/activity_splash.xml",
+        "source": "com.nammakathey.app-main-48:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/item_hero.xml",
+        "source": "com.nammakathey.app-main-48:/layout/item_hero.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/item_badge.xml",
+        "source": "com.nammakathey.app-main-48:/layout/item_badge.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/item_story_page.xml",
+        "source": "com.nammakathey.app-main-48:/layout/item_story_page.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/item_district.xml",
+        "source": "com.nammakathey.app-main-48:/layout/item_district.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/activity_hero_list.xml",
+        "source": "com.nammakathey.app-main-48:/layout/activity_hero_list.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/activity_quiz.xml",
+        "source": "com.nammakathey.app-main-48:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.nammakathey.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/activity_statue_finder.xml",
+        "source": "com.nammakathey.app-main-48:/layout/activity_statue_finder.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-mergeDebugResources-45:/layout/activity_story.xml",
+        "source": "com.nammakathey.app-main-48:/layout/activity_story.xml"
+    }
+]

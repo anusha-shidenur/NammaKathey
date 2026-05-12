@@ -1,0 +1,723 @@
+{
+  "districts": [
+    {
+      "id": "belagavi",
+      "nameEn": "Belagavi",
+      "nameKn": "ಬೆಳಗಾವಿ",
+      "descriptionEn": "Historic district known for freedom fighters",
+      "descriptionKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಿಗೆ ಪ್ರಸಿದ್ಧ ಐತಿಹಾಸಿಕ ಜಿಲ್ಲೆ",
+      "colorIndex": 0,
+      "heroes": [
+        {
+          "id": "sangolli_rayanna",
+          "nameEn": "Sangolli Rayanna",
+          "nameKn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
+          "districtId": "belagavi",
+          "categoryEn": "Freedom Fighter",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "yearBorn": 1798,
+          "yearDied": 1831,
+          "shortBioEn": "The bravest warrior of Karnataka who fought against British rule under Kittur Rani Chennamma.",
+          "shortBioKn": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮರ ಅಡಿಯಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಕರ್ನಾಟಕದ ಶ್ರೇಷ್ಠ ಯೋಧ.",
+          "statueLat": 15.8497,
+          "statueLng": 74.4977,
+          "statueDescEn": "Sangolli Rayanna Statue, Kittur",
+          "statueDescKn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಪ್ರತಿಮೆ, ಕಿತ್ತೂರು",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Young Warrior",
+              "titleKn": "ಯುವ ಯೋಧ",
+              "contentEn": "Long ago in the village of Sangolli near Belagavi, a brave boy named Rayanna was born. He was strong, fearless, and loved his land deeply. From childhood, he learned horse riding and sword fighting.",
+              "contentKn": "ಬಹಳ ಹಿಂದೆ ಬೆಳಗಾವಿ ಬಳಿಯ ಸಂಗೊಳ್ಳಿ ಗ್ರಾಮದಲ್ಲಿ ರಾಯಣ್ಣ ಎಂಬ ಧೀರ ಹುಡುಗ ಜನಿಸಿದ. ಅವನು ಬಲಿಷ್ಠ, ನಿರ್ಭೀತ ಮತ್ತು ತನ್ನ ನಾಡನ್ನು ಆಳವಾಗಿ ಪ್ರೀತಿಸುತ್ತಿದ್ದ.",
+              "illustrationEmoji": "⚔️"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Serving Kittur",
+              "titleKn": "ಕಿತ್ತೂರು ಸೇವೆ",
+              "contentEn": "Rayanna became a loyal soldier of Kittur kingdom under brave Queen Chennamma. When the British tried to take over Kittur, Rayanna fought side by side with the queen. He never gave up, even when things were tough!",
+              "contentKn": "ರಾಯಣ್ಣ ಧೀರ ರಾಣಿ ಚೆನ್ನಮ್ಮರ ಅಡಿ ಕಿತ್ತೂರು ರಾಜ್ಯದ ನಿಷ್ಠಾವಂತ ಸೈನಿಕನಾದ. ಬ್ರಿಟಿಷರು ಕಿತ್ತೂರನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಯತ್ನಿಸಿದಾಗ, ರಾಯಣ್ಣ ರಾಣಿಯ ಜೊತೆ ಹೋರಾಡಿದ.",
+              "illustrationEmoji": "🏰"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "The Brave Fight",
+              "titleKn": "ಧೀರ ಹೋರಾಟ",
+              "contentEn": "Even after the queen was captured, Rayanna continued the fight for freedom. He organized guerrilla attacks on British soldiers and inspired many villagers to join the freedom struggle. He was a true hero of the people!",
+              "contentKn": "ರಾಣಿ ಸೆರೆಹಿಡಿಯಲ್ಪಟ್ಟ ನಂತರವೂ, ರಾಯಣ್ಣ ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಟ ಮುಂದುವರೆಸಿದ. ಅವನು ಬ್ರಿಟಿಷ್ ಸೈನಿಕರ ವಿರುದ್ಧ ದಾಳಿಗಳನ್ನು ಸಂಘಟಿಸಿ ಅನೇಕ ಗ್ರಾಮಸ್ಥರನ್ನು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಕ್ಕೆ ಪ್ರೇರೇಪಿಸಿದ.",
+              "illustrationEmoji": "🦁"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "Where was Sangolli Rayanna born?",
+              "questionKn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಎಲ್ಲಿ ಜನಿಸಿದರು?",
+              "optionsEn": ["Village of Sangolli", "Mysuru city", "Bengaluru", "Mangaluru"],
+              "optionsKn": ["ಸಂಗೊಳ್ಳಿ ಗ್ರಾಮ", "ಮೈಸೂರು ನಗರ", "ಬೆಂಗಳೂರು", "ಮಂಗಳೂರು"],
+              "correctIndex": 0,
+              "explanationEn": "Rayanna was born in the village of Sangolli near Belagavi district.",
+              "explanationKn": "ರಾಯಣ್ಣ ಬೆಳಗಾವಿ ಜಿಲ್ಲೆ ಬಳಿ ಸಂಗೊಳ್ಳಿ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು."
+            },
+            {
+              "questionEn": "Under which queen did Sangolli Rayanna serve?",
+              "questionKn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಯಾವ ರಾಣಿಯ ಅಡಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು?",
+              "optionsEn": ["Rani Chennamma", "Rani Lakshmibai", "Rani Abbakka", "Rani Velu"],
+              "optionsKn": ["ರಾಣಿ ಚೆನ್ನಮ್ಮ", "ರಾಣಿ ಲಕ್ಷ್ಮೀಬಾಯಿ", "ರಾಣಿ ಅಬ್ಬಕ್ಕ", "ರಾಣಿ ವೇಲು"],
+              "correctIndex": 0,
+              "explanationEn": "Rayanna was the most loyal soldier of Kittur Rani Chennamma.",
+              "explanationKn": "ರಾಯಣ್ಣ ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮರ ಅತ್ಯಂತ ನಿಷ್ಠಾವಂತ ಸೈನಿಕ."
+            },
+            {
+              "questionEn": "What did Rayanna fight against?",
+              "questionKn": "ರಾಯಣ್ಣ ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+              "optionsEn": ["British rule", "Mughal empire", "Maratha kingdom", "Mysore king"],
+              "optionsKn": ["ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆ", "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ", "ಮರಾಠಾ ರಾಜ್ಯ", "ಮೈಸೂರು ರಾಜ"],
+              "correctIndex": 0,
+              "explanationEn": "Rayanna bravely fought against the British who tried to take Kittur kingdom.",
+              "explanationKn": "ಕಿತ್ತೂರು ರಾಜ್ಯವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಯತ್ನಿಸಿದ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ರಾಯಣ್ಣ ಧೀರತೆಯಿಂದ ಹೋರಾಡಿದರು."
+            }
+          ]
+        },
+        {
+          "id": "kittur_chennamma",
+          "nameEn": "Kittur Rani Chennamma",
+          "nameKn": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+          "districtId": "belagavi",
+          "categoryEn": "Queen & Freedom Fighter",
+          "categoryKn": "ರಾಣಿ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ",
+          "yearBorn": 1778,
+          "yearDied": 1829,
+          "shortBioEn": "The first queen of India to fight against British rule, long before 1857.",
+          "shortBioKn": "1857 ಕ್ಕೂ ಮೊದಲೇ ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಭಾರತದ ಮೊದಲ ರಾಣಿ.",
+          "statueLat": 15.8497,
+          "statueLng": 74.4977,
+          "statueDescEn": "Kittur Rani Chennamma Memorial, Kittur Fort",
+          "statueDescKn": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ ಸ್ಮಾರಕ, ಕಿತ್ತೂರು ಕೋಟೆ",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Fearless Queen",
+              "titleKn": "ನಿರ್ಭೀತ ರಾಣಿ",
+              "contentEn": "Chennamma was born in 1778 in Kakati village. She was brave from childhood — she could ride horses and use weapons like a warrior. She became the queen of Kittur and was loved by all her people.",
+              "contentKn": "ಚೆನ್ನಮ್ಮ 1778 ರಲ್ಲಿ ಕಾಕತಿ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ಅವರು ಬಾಲ್ಯದಿಂದಲೇ ಧೈರ್ಯಶಾಲಿ — ಅಶ್ವಾರೋಹಣ ಮತ್ತು ಶಸ್ತ್ರಾಸ್ತ್ರ ಬಳಕೆ ತಿಳಿದಿದ್ದರು.",
+              "illustrationEmoji": "👑"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Fighting the British",
+              "titleKn": "ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಟ",
+              "contentEn": "When the British tried to capture Kittur, Chennamma said 'No!' She led her soldiers and actually defeated the British in the first battle! She even captured two British officers. The whole kingdom celebrated!",
+              "contentKn": "ಬ್ರಿಟಿಷರು ಕಿತ್ತೂರನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಯತ್ನಿಸಿದಾಗ, ಚೆನ್ನಮ್ಮ 'ಇಲ್ಲ!' ಎಂದರು. ಮೊದಲ ಯುದ್ಧದಲ್ಲಿ ಅವರು ಬ್ರಿಟಿಷರನ್ನು ಸೋಲಿಸಿದರು!",
+              "illustrationEmoji": "⚔️"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Eternal Inspiration",
+              "titleKn": "ಶಾಶ್ವತ ಪ್ರೇರಣೆ",
+              "contentEn": "Though eventually captured, Chennamma never gave up her spirit. She inspired millions. Today, October 22 is celebrated as Kittur Utsav across Karnataka. She is remembered as 'Veeranari' — the brave woman!",
+              "contentKn": "ಕೊನೆಗೆ ಸೆರೆ ಹಿಡಿಯಲ್ಪಟ್ಟರೂ, ಚೆನ್ನಮ್ಮ ತಮ್ಮ ಮನೋಬಲ ಕಳೆದುಕೊಳ್ಳಲಿಲ್ಲ. ಅಕ್ಟೋಬರ್ 22 ಅನ್ನು ಕರ್ನಾಟಕದಾದ್ಯಂತ ಕಿತ್ತೂರು ಉತ್ಸವವಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+              "illustrationEmoji": "🌟"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "When was Kittur Rani Chennamma born?",
+              "questionKn": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ ಯಾವಾಗ ಜನಿಸಿದರು?",
+              "optionsEn": ["1778", "1857", "1800", "1820"],
+              "optionsKn": ["1778", "1857", "1800", "1820"],
+              "correctIndex": 0,
+              "explanationEn": "Rani Chennamma was born in 1778 in Kakati village.",
+              "explanationKn": "ರಾಣಿ ಚೆನ್ನಮ್ಮ 1778 ರಲ್ಲಿ ಕಾಕತಿ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು."
+            },
+            {
+              "questionEn": "What is Kittur Utsav day?",
+              "questionKn": "ಕಿತ್ತೂರು ಉತ್ಸವ ಯಾವ ದಿನ?",
+              "optionsEn": ["October 22", "August 15", "January 26", "November 1"],
+              "optionsKn": ["ಅಕ್ಟೋಬರ್ 22", "ಆಗಸ್ಟ್ 15", "ಜನವರಿ 26", "ನವೆಂಬರ್ 1"],
+              "correctIndex": 0,
+              "explanationEn": "October 22 is celebrated as Kittur Utsav across Karnataka.",
+              "explanationKn": "ಅಕ್ಟೋಬರ್ 22 ಅನ್ನು ಕರ್ನಾಟಕದಾದ್ಯಂತ ಕಿತ್ತೂರು ಉತ್ಸವವಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ."
+            },
+            {
+              "questionEn": "What title is Chennamma known by?",
+              "questionKn": "ಚೆನ್ನಮ್ಮ ಯಾವ ಬಿರುದಿನಿಂದ ಪ್ರಸಿದ್ಧರು?",
+              "optionsEn": ["Veeranari", "Rani Mata", "Devi", "Shakti"],
+              "optionsKn": ["ವೀರನಾರಿ", "ರಾಣಿ ಮಾತಾ", "ದೇವಿ", "ಶಕ್ತಿ"],
+              "correctIndex": 0,
+              "explanationEn": "Chennamma is remembered as Veeranari — the brave woman.",
+              "explanationKn": "ಚೆನ್ನಮ್ಮ ವೀರನಾರಿ ಎಂದು ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾರೆ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mysuru",
+      "nameEn": "Mysuru",
+      "nameKn": "ಮೈಸೂರು",
+      "descriptionEn": "City of palaces and great scholars",
+      "descriptionKn": "ಅರಮನೆಗಳ ನಗರ ಮತ್ತು ಮಹಾನ್ ವಿದ್ವಾಂಸರ ತವರು",
+      "colorIndex": 1,
+      "heroes": [
+        {
+          "id": "tipu_sultan",
+          "nameEn": "Tipu Sultan",
+          "nameKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+          "districtId": "mysuru",
+          "categoryEn": "Freedom Fighter & Ruler",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ ಮತ್ತು ಆಡಳಿತಗಾರ",
+          "yearBorn": 1750,
+          "yearDied": 1799,
+          "shortBioEn": "The Tiger of Mysore who fought bravely against British colonialism.",
+          "shortBioKn": "ಬ್ರಿಟಿಷ್ ವಸಾಹತುಶಾಹಿ ವಿರುದ್ಧ ಧೀರತೆಯಿಂದ ಹೋರಾಡಿದ ಮೈಸೂರು ಹುಲಿ.",
+          "statueLat": 12.3052,
+          "statueLng": 76.6551,
+          "statueDescEn": "Tipu Sultan's Summer Palace, Bengaluru",
+          "statueDescKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಬೇಸಿಗೆ ಅರಮನೆ, ಬೆಂಗಳೂರು",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Tiger Cub",
+              "titleKn": "ಹುಲಿ ಮರಿ",
+              "contentEn": "Tipu Sultan was born in 1750 in Devanahalli. His father Hyder Ali called him 'Fateh Ali' but people called him Tipu — after a local saint. He loved learning, was very brave, and became an expert in warfare from a young age.",
+              "contentKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ 1750 ರಲ್ಲಿ ದೇವನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಅವರ ತಂದೆ ಹೈದರ್ ಅಲಿ ಅವರನ್ನು 'ಫತೇ ಅಲಿ' ಎಂದು ಕರೆದರು ಆದರೆ ಜನ ಟಿಪ್ಪು ಎಂದರು.",
+              "illustrationEmoji": "🐯"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "The Innovator King",
+              "titleKn": "ಸಂಶೋಧಕ ರಾಜ",
+              "contentEn": "Tipu Sultan invented one of the world's first war rockets — the Mysorean rockets! He was also a great administrator, built excellent roads, introduced silk weaving, and promoted trade. He was far ahead of his time.",
+              "contentKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ವಿಶ್ವದ ಮೊದಲ ಯುದ್ಧ ರಾಕೆಟ್‌ಗಳಲ್ಲಿ ಒಂದನ್ನು ಆವಿಷ್ಕರಿಸಿದರು! ಅವರು ರೇಷ್ಮೆ ನೇಯ್ಗೆ ಉತ್ತೇಜಿಸಿದರು.",
+              "illustrationEmoji": "🚀"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "The Brave Stand",
+              "titleKn": "ಧೀರ ನಿಲುವು",
+              "contentEn": "Tipu once said: 'Better to live one day as a tiger than a hundred years as a sheep!' He fought four wars against the British. In 1799, he died bravely defending his fort at Srirangapatna. He is remembered as a symbol of resistance!",
+              "contentKn": "'ನೂರು ವರ್ಷ ಕುರಿಯಾಗಿ ಬದುಕುವುದಕ್ಕಿಂತ ಒಂದು ದಿನ ಹುಲಿಯಾಗಿ ಬದುಕುವುದು ಮೇಲು!' ಎಂದು ಟಿಪ್ಪು ಹೇಳಿದ್ದರು.",
+              "illustrationEmoji": "🦁"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "What was Tipu Sultan famous for inventing?",
+              "questionKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಯಾವ ಆವಿಷ್ಕಾರಕ್ಕೆ ಪ್ರಸಿದ್ಧರು?",
+              "optionsEn": ["War Rockets", "Cannon", "Sword", "Ship"],
+              "optionsKn": ["ಯುದ್ಧ ರಾಕೆಟ್", "ಫಿರಂಗಿ", "ಖಡ್ಗ", "ಹಡಗು"],
+              "correctIndex": 0,
+              "explanationEn": "Tipu Sultan invented the Mysorean war rockets, one of the first in the world.",
+              "explanationKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಮೈಸೂರು ಯುದ್ಧ ರಾಕೆಟ್‌ಗಳನ್ನು ಆವಿಷ್ಕರಿಸಿದರು."
+            },
+            {
+              "questionEn": "What is Tipu Sultan called?",
+              "questionKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಅನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+              "optionsEn": ["Tiger of Mysore", "Lion of Karnataka", "King of Kings", "Hero of India"],
+              "optionsKn": ["ಮೈಸೂರು ಹುಲಿ", "ಕರ್ನಾಟಕದ ಸಿಂಹ", "ರಾಜಾಧಿರಾಜ", "ಭಾರತದ ನಾಯಕ"],
+              "correctIndex": 0,
+              "explanationEn": "Tipu Sultan is called the Tiger of Mysore for his bravery.",
+              "explanationKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಅವರ ಧೈರ್ಯಕ್ಕಾಗಿ ಮೈಸೂರು ಹುಲಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            },
+            {
+              "questionEn": "Where was the Battle of Srirangapatna fought?",
+              "questionKn": "ಶ್ರೀರಂಗಪಟ್ಟಣ ಯುದ್ಧ ಎಲ್ಲಿ ನಡೆಯಿತು?",
+              "optionsEn": ["Srirangapatna", "Mysuru", "Belagavi", "Bengaluru"],
+              "optionsKn": ["ಶ್ರೀರಂಗಪಟ್ಟಣ", "ಮೈಸೂರು", "ಬೆಳಗಾವಿ", "ಬೆಂಗಳೂರು"],
+              "correctIndex": 0,
+              "explanationEn": "Tipu Sultan died defending Srirangapatna fort in 1799.",
+              "explanationKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ 1799 ರಲ್ಲಿ ಶ್ರೀರಂಗಪಟ್ಟಣ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಲು ಪ್ರಾಣ ತ್ಯಜಿಸಿದರು."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dharwad",
+      "nameEn": "Dharwad",
+      "nameKn": "ಧಾರವಾಡ",
+      "descriptionEn": "Cultural capital of North Karnataka",
+      "descriptionKn": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಸಾಂಸ್ಕೃತಿಕ ರಾಜಧಾನಿ",
+      "colorIndex": 2,
+      "heroes": [
+        {
+          "id": "basavanna",
+          "nameEn": "Basavanna",
+          "nameKn": "ಬಸವಣ್ಣ",
+          "districtId": "dharwad",
+          "categoryEn": "Social Reformer & Philosopher",
+          "categoryKn": "ಸಮಾಜ ಸುಧಾರಕ ಮತ್ತು ತತ್ವಜ್ಞಾನಿ",
+          "yearBorn": 1131,
+          "yearDied": 1167,
+          "shortBioEn": "The great 12th century saint who fought against caste discrimination and inequality.",
+          "shortBioKn": "ಜಾತಿ ತಾರತಮ್ಯ ಮತ್ತು ಅಸಮಾನತೆ ವಿರುದ್ಧ ಹೋರಾಡಿದ 12 ನೇ ಶತಮಾನದ ಮಹಾನ್ ಸಂತ.",
+          "statueLat": 15.3647,
+          "statueLng": 75.1240,
+          "statueDescEn": "Basavanna Statue, Basavakalyan",
+          "statueDescKn": "ಬಸವಣ್ಣ ಪ್ರತಿಮೆ, ಬಸವಕಲ್ಯಾಣ",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Young Questioner",
+              "titleKn": "ಯುವ ಪ್ರಶ್ನಿಸುವವ",
+              "contentEn": "Basavanna was born in Bagewadi village around 1131. Even as a child, he asked difficult questions: 'Why are some people treated better than others? Isn't everyone equal before God?' He refused to accept unfair traditions.",
+              "contentKn": "ಬಸವಣ್ಣ ಸುಮಾರು 1131 ರಲ್ಲಿ ಬಾಗೇವಾಡಿ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ಬಾಲ್ಯದಿಂದಲೇ ಅವರು ಕಷ್ಟದ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಿದರು.",
+              "illustrationEmoji": "🤔"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Breaking Barriers",
+              "titleKn": "ತಡೆಗೋಡೆಗಳ ನಾಶ",
+              "contentEn": "Basavanna created the 'Anubhava Mantapa' — a parliament of people! Everyone could come — farmers, cobblers, women, rich and poor. They all sat together and discussed life, God, and society. This was revolutionary 900 years ago!",
+              "contentKn": "ಬಸವಣ್ಣ 'ಅನುಭವ ಮಂಟಪ' ಸ್ಥಾಪಿಸಿದರು — ಜನರ ಸಂಸತ್ತು! ರೈತರು, ಚಮ್ಮಾರರು, ಮಹಿಳೆಯರು ಎಲ್ಲರೂ ಒಟ್ಟಿಗೆ ಕುಳಿತು ಚರ್ಚಿಸಿದರು.",
+              "illustrationEmoji": "🏛️"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "The Vachanas",
+              "titleKn": "ವಚನಗಳು",
+              "contentEn": "Basavanna wrote beautiful poems called 'Vachanas' in simple Kannada that everyone could understand. His most famous vachana says: 'Work is worship. The hands that work are holier than lips that pray.' His words still inspire millions!",
+              "contentKn": "ಬಸವಣ್ಣ 'ವಚನಗಳು' ಎಂಬ ಸುಂದರ ಕವಿತೆಗಳನ್ನು ಎಲ್ಲರಿಗೂ ಅರ್ಥವಾಗುವ ಸರಳ ಕನ್ನಡದಲ್ಲಿ ಬರೆದರು.",
+              "illustrationEmoji": "📜"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "What is the parliament Basavanna created called?",
+              "questionKn": "ಬಸವಣ್ಣ ಸ್ಥಾಪಿಸಿದ ಸಂಸತ್ತನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+              "optionsEn": ["Anubhava Mantapa", "Dharma Sabha", "Vidya Peetha", "Kalyana"],
+              "optionsKn": ["ಅನುಭವ ಮಂಟಪ", "ಧರ್ಮ ಸಭೆ", "ವಿದ್ಯಾ ಪೀಠ", "ಕಲ್ಯಾಣ"],
+              "correctIndex": 0,
+              "explanationEn": "Basavanna created Anubhava Mantapa, a parliament where all people were equal.",
+              "explanationKn": "ಬಸವಣ್ಣ ಅನುಭವ ಮಂಟಪ ಸ್ಥಾಪಿಸಿದರು, ಅಲ್ಲಿ ಎಲ್ಲರೂ ಸಮಾನರಾಗಿದ್ದರು."
+            },
+            {
+              "questionEn": "What are Basavanna's poems called?",
+              "questionKn": "ಬಸವಣ್ಣನ ಕವಿತೆಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+              "optionsEn": ["Vachanas", "Shlokas", "Kavyas", "Dohas"],
+              "optionsKn": ["ವಚನಗಳು", "ಶ್ಲೋಕಗಳು", "ಕಾವ್ಯಗಳು", "ದೋಹೆಗಳು"],
+              "correctIndex": 0,
+              "explanationEn": "Basavanna wrote Vachanas — simple, powerful poems about equality and devotion.",
+              "explanationKn": "ಬಸವಣ್ಣ ಸಮಾನತೆ ಮತ್ತು ಭಕ್ತಿ ಬಗ್ಗೆ ವಚನಗಳನ್ನು ಬರೆದರು."
+            },
+            {
+              "questionEn": "What was Basavanna's main message?",
+              "questionKn": "ಬಸವಣ್ಣನ ಮುಖ್ಯ ಸಂದೇಶ ಏನು?",
+              "optionsEn": ["All people are equal", "Only priests are holy", "Kings are great", "War is noble"],
+              "optionsKn": ["ಎಲ್ಲ ಜನರು ಸಮಾನರು", "ಅರ್ಚಕರು ಮಾತ್ರ ಪವಿತ್ರರು", "ರಾಜರು ಮಹಾನ್", "ಯುದ್ಧ ಶ್ರೇಷ್ಠ"],
+              "correctIndex": 0,
+              "explanationEn": "Basavanna's core message was that all human beings are equal, regardless of caste or birth.",
+              "explanationKn": "ಬಸವಣ್ಣನ ಮೂಲ ಸಂದೇಶ: ಜಾತಿ ಅಥವಾ ಹುಟ್ಟಿನ ಆಧಾರದ ಮೇಲೆ ತಾರತಮ್ಯ ತರದೆ ಎಲ್ಲ ಮಾನವರೂ ಸಮಾನರು."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uttara_kannada",
+      "nameEn": "Uttara Kannada",
+      "nameKn": "ಉತ್ತರ ಕನ್ನಡ",
+      "descriptionEn": "Land of the sea queen and coastal warriors",
+      "descriptionKn": "ಸಮುದ್ರ ರಾಣಿ ಮತ್ತು ಕರಾವಳಿ ಯೋಧರ ನಾಡು",
+      "colorIndex": 3,
+      "heroes": [
+        {
+          "id": "abbakka_rani",
+          "nameEn": "Abbakka Rani",
+          "nameKn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ",
+          "districtId": "uttara_kannada",
+          "categoryEn": "Sea Queen & Freedom Fighter",
+          "categoryKn": "ಸಮುದ್ರ ರಾಣಿ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ",
+          "yearBorn": 1525,
+          "yearDied": 1570,
+          "shortBioEn": "The brave queen of Ullal who defeated Portuguese forces multiple times.",
+          "shortBioKn": "ಪೋರ್ಚುಗೀಸ್ ಸೇನೆಯನ್ನು ಹಲವು ಬಾರಿ ಸೋಲಿಸಿದ ಉಳ್ಳಾಲದ ಧೀರ ರಾಣಿ.",
+          "statueLat": 12.8019,
+          "statueLng": 74.8679,
+          "statueDescEn": "Abbakka Rani Memorial, Ullal",
+          "statueDescKn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಸ್ಮಾರಕ, ಉಳ್ಳಾಲ",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Queen of the Sea",
+              "titleKn": "ಸಮುದ್ರ ರಾಣಿ",
+              "contentEn": "Abbakka was the brave queen of Ullal, a small coastal town near Mangaluru. She belonged to the Chowta dynasty and was trained in warfare and administration from childhood. She knew how to fight on land and at sea!",
+              "contentKn": "ಅಬ್ಬಕ್ಕ ಮಂಗಳೂರು ಬಳಿ ಉಳ್ಳಾಲ ಪಟ್ಟಣದ ಧೀರ ರಾಣಿ. ಅವರು ಚೌಟ ರಾಜವಂಶಕ್ಕೆ ಸೇರಿದ್ದರು.",
+              "illustrationEmoji": "⚓"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Defeating the Portuguese",
+              "titleKn": "ಪೋರ್ಚುಗೀಸರ ಸೋಲು",
+              "contentEn": "The Portuguese had big ships and powerful cannons. Everyone was afraid of them. But Abbakka organized a guerrilla navy! She attacked at night, used the coastal geography wisely, and defeated the Portuguese four times. They called her 'Abhaya Rani' — the fearless queen!",
+              "contentKn": "ಪೋರ್ಚುಗೀಸರು ದೊಡ್ಡ ಹಡಗುಗಳು ಮತ್ತು ಶಕ್ತಿಶಾಲಿ ಫಿರಂಗಿ ಹೊಂದಿದ್ದರು. ಆದರೆ ಅಬ್ಬಕ್ಕ ರಾತ್ರಿ ದಾಳಿ ಮಾಡಿ ಅವರನ್ನು ನಾಲ್ಕು ಬಾರಿ ಸೋಲಿಸಿದರು!",
+              "illustrationEmoji": "🚢"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "The First Lady of Freedom",
+              "titleKn": "ಸ್ವಾತಂತ್ರ್ಯದ ಮೊದಲ ಮಹಿಳೆ",
+              "contentEn": "Abbakka Rani fought the Portuguese nearly 100 years before Rani Chennamma and 300 years before 1857! She is called the 'First Lady of Indian Independence.' The Indian Coast Guard named a ship after her. She is the pride of Karnataka's coastal heritage!",
+              "contentKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ 1857 ಕ್ಕೂ 300 ವರ್ಷ ಮೊದಲೇ ಹೋರಾಡಿದರು! ಅವರನ್ನು 'ಭಾರತದ ಮೊದಲ ಸ್ವಾತಂತ್ರ್ಯ ಮಹಿಳೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+              "illustrationEmoji": "🌊"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "Which country did Abbakka Rani fight against?",
+              "questionKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ ಯಾವ ದೇಶದ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+              "optionsEn": ["Portuguese", "British", "French", "Dutch"],
+              "optionsKn": ["ಪೋರ್ಚುಗೀಸ್", "ಬ್ರಿಟಿಷ್", "ಫ್ರೆಂಚ್", "ಡಚ್"],
+              "correctIndex": 0,
+              "explanationEn": "Abbakka Rani defeated the Portuguese forces four times.",
+              "explanationKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ ಪೋರ್ಚುಗೀಸ್ ಸೈನ್ಯವನ್ನು ನಾಲ್ಕು ಬಾರಿ ಸೋಲಿಸಿದರು."
+            },
+            {
+              "questionEn": "What was Abbakka Rani's hometown?",
+              "questionKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿಯ ಊರು ಯಾವುದು?",
+              "optionsEn": ["Ullal", "Mangaluru", "Udupi", "Karwar"],
+              "optionsKn": ["ಉಳ್ಳಾಲ", "ಮಂಗಳೂರು", "ಉಡುಪಿ", "ಕಾರವಾರ"],
+              "correctIndex": 0,
+              "explanationEn": "Abbakka Rani was the queen of Ullal, a coastal town near Mangaluru.",
+              "explanationKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ ಮಂಗಳೂರು ಬಳಿ ಉಳ್ಳಾಲ ರಾಣಿ."
+            },
+            {
+              "questionEn": "What title was Abbakka Rani given?",
+              "questionKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿಗೆ ಯಾವ ಬಿರುದು ನೀಡಲಾಯಿತು?",
+              "optionsEn": ["First Lady of Indian Independence", "Tiger Queen", "Sea Goddess", "Battle Queen"],
+              "optionsKn": ["ಭಾರತ ಸ್ವಾತಂತ್ರ್ಯದ ಮೊದಲ ಮಹಿಳೆ", "ಹುಲಿ ರಾಣಿ", "ಸಮುದ್ರ ದೇವಿ", "ಯುದ್ಧ ರಾಣಿ"],
+              "correctIndex": 0,
+              "explanationEn": "Abbakka Rani is called the First Lady of Indian Independence.",
+              "explanationKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿಯನ್ನು ಭಾರತ ಸ್ವಾತಂತ್ರ್ಯದ ಮೊದಲ ಮಹಿಳೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bengaluru",
+      "nameEn": "Bengaluru",
+      "nameKn": "ಬೆಂಗಳೂರು",
+      "descriptionEn": "Garden city and tech hub of Karnataka",
+      "descriptionKn": "ಕರ್ನಾಟಕದ ತೋಟದ ನಗರ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ಕೇಂದ್ರ",
+      "colorIndex": 4,
+      "heroes": [
+        {
+          "id": "kempegowda",
+          "nameEn": "Kempegowda I",
+          "nameKn": "ಕೆಂಪೇಗೌಡ",
+          "districtId": "bengaluru",
+          "categoryEn": "Founder & Builder",
+          "categoryKn": "ಸ್ಥಾಪಕ ಮತ್ತು ನಿರ್ಮಾಣಕಾರ",
+          "yearBorn": 1510,
+          "yearDied": 1570,
+          "shortBioEn": "The visionary chief who founded Bengaluru city in 1537.",
+          "shortBioKn": "1537 ರಲ್ಲಿ ಬೆಂಗಳೂರು ನಗರವನ್ನು ಸ್ಥಾಪಿಸಿದ ದೂರದೃಷ್ಟಿಯ ಮುಖ್ಯಸ್ಥ.",
+          "statueLat": 12.9716,
+          "statueLng": 77.5946,
+          "statueDescEn": "Kempegowda Statue, Bengaluru International Airport",
+          "statueDescKn": "ಕೆಂಪೇಗೌಡ ಪ್ರತಿಮೆ, ಬೆಂಗಳೂರು ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Vision",
+              "titleKn": "ದೂರದೃಷ್ಟಿ",
+              "contentEn": "Long ago, a wise chieftain named Kempegowda had a dream — to build a great city! In 1537, he chose a beautiful plateau surrounded by lakes and fresh air. He called it 'Bendakaluru' which became Bengaluru — our Bengaluru!",
+              "contentKn": "ಬಹಳ ಹಿಂದೆ, ಕೆಂಪೇಗೌಡ ಎಂಬ ಬುದ್ಧಿವಂತ ಮುಖ್ಯಸ್ಥ ಒಂದು ದೊಡ್ಡ ನಗರ ನಿರ್ಮಿಸುವ ಕನಸು ಕಂಡ. 1537 ರಲ್ಲಿ ಅವನು 'ಬೆಂಡಕಾಲೂರು' ಸ್ಥಾಪಿಸಿದ.",
+              "illustrationEmoji": "🏙️"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Building the City",
+              "titleKn": "ನಗರ ನಿರ್ಮಾಣ",
+              "contentEn": "Kempegowda was a brilliant planner! He built tanks (lakes) to provide water, markets for trade, temples for culture, and watchtowers at the four corners of the city. He made sure both rich and poor could live happily in his city.",
+              "contentKn": "ಕೆಂಪೇಗೌಡ ಅದ್ಭುತ ಯೋಜಕ! ಅವರು ನೀರಿಗಾಗಿ ಕೆರೆಗಳನ್ನು, ವ್ಯಾಪಾರಕ್ಕೆ ಮಾರುಕಟ್ಟೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು.",
+              "illustrationEmoji": "🏗️"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Legacy Forever",
+              "titleKn": "ಶಾಶ್ವತ ಪರಂಪರೆ",
+              "contentEn": "Today Bengaluru is one of the world's greatest tech cities with over 12 million people! At Bengaluru airport, there is a 108-foot statue of Kempegowda — one of the tallest statues in Karnataka. His city became the world's Silicon Valley of India!",
+              "contentKn": "ಇಂದು ಬೆಂಗಳೂರು ವಿಶ್ವದ ಅತ್ಯುತ್ತಮ ತಂತ್ರಜ್ಞಾನ ನಗರಗಳಲ್ಲಿ ಒಂದು! ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ 108 ಅಡಿ ಎತ್ತರದ ಕೆಂಪೇಗೌಡ ಪ್ರತಿಮೆಯಿದೆ.",
+              "illustrationEmoji": "🌆"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "In which year did Kempegowda found Bengaluru?",
+              "questionKn": "ಕೆಂಪೇಗೌಡ ಯಾವ ವರ್ಷ ಬೆಂಗಳೂರನ್ನು ಸ್ಥಾಪಿಸಿದರು?",
+              "optionsEn": ["1537", "1600", "1400", "1700"],
+              "optionsKn": ["1537", "1600", "1400", "1700"],
+              "correctIndex": 0,
+              "explanationEn": "Kempegowda founded Bengaluru in 1537.",
+              "explanationKn": "ಕೆಂಪೇಗೌಡ 1537 ರಲ್ಲಿ ಬೆಂಗಳೂರನ್ನು ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "questionEn": "What is the original name of Bengaluru?",
+              "questionKn": "ಬೆಂಗಳೂರಿನ ಮೂಲ ಹೆಸರೇನು?",
+              "optionsEn": ["Bendakaluru", "Mysuru", "Kalyana", "Kittur"],
+              "optionsKn": ["ಬೆಂಡಕಾಲೂರು", "ಮೈಸೂರು", "ಕಲ್ಯಾಣ", "ಕಿತ್ತೂರು"],
+              "correctIndex": 0,
+              "explanationEn": "Bengaluru was originally called Bendakaluru by Kempegowda.",
+              "explanationKn": "ಕೆಂಪೇಗೌಡ ಅದನ್ನು ಮೂಲತಃ ಬೆಂಡಕಾಲೂರು ಎಂದು ಕರೆದರು."
+            },
+            {
+              "questionEn": "What did Kempegowda build to provide water to the city?",
+              "questionKn": "ನಗರಕ್ಕೆ ನೀರು ಒದಗಿಸಲು ಕೆಂಪೇಗೌಡ ಏನು ನಿರ್ಮಿಸಿದರು?",
+              "optionsEn": ["Lakes (Tanks)", "Rivers", "Wells", "Canals"],
+              "optionsKn": ["ಕೆರೆಗಳು", "ನದಿಗಳು", "ಬಾವಿಗಳು", "ಕಾಲುವೆಗಳು"],
+              "correctIndex": 0,
+              "explanationEn": "Kempegowda built many tanks (lakes) to provide water to Bengaluru.",
+              "explanationKn": "ಕೆಂಪೇಗೌಡ ಬೆಂಗಳೂರಿಗೆ ನೀರು ಒದಗಿಸಲು ಅನೇಕ ಕೆರೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raichur",
+      "nameEn": "Raichur",
+      "nameKn": "ರಾಯಚೂರು",
+      "descriptionEn": "Historic district of Vijayanagara empire",
+      "descriptionKn": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಐತಿಹಾಸಿಕ ಜಿಲ್ಲೆ",
+      "colorIndex": 5,
+      "heroes": [
+        {
+          "id": "krishnadevaraya",
+          "nameEn": "Krishnadevaraya",
+          "nameKn": "ಕೃಷ್ಣದೇವರಾಯ",
+          "districtId": "raichur",
+          "categoryEn": "Emperor & Poet",
+          "categoryKn": "ಚಕ್ರವರ್ತಿ ಮತ್ತು ಕವಿ",
+          "yearBorn": 1471,
+          "yearDied": 1529,
+          "shortBioEn": "The greatest emperor of the Vijayanagara Empire who made Karnataka a golden land.",
+          "shortBioKn": "ಕರ್ನಾಟಕವನ್ನು ಸುವರ್ಣ ಭೂಮಿಯಾಗಿ ಮಾಡಿದ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಶ್ರೇಷ್ಠ ಚಕ್ರವರ್ತಿ.",
+          "statueLat": 15.3350,
+          "statueLng": 76.4600,
+          "statueDescEn": "Krishnadevaraya Statue, Hampi",
+          "statueDescKn": "ಕೃಷ್ಣದೇವರಾಯ ಪ್ರತಿಮೆ, ಹಂಪಿ",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Golden Emperor",
+              "titleKn": "ಸುವರ್ಣ ಚಕ್ರವರ್ತಿ",
+              "contentEn": "Krishnadevaraya was the greatest king of the mighty Vijayanagara Empire. Under his rule from 1509 to 1529, the empire became the largest in India! Foreign travellers who visited wrote that Vijayanagara was more magnificent than Rome!",
+              "contentKn": "ಕೃಷ್ಣದೇವರಾಯ ಶಕ್ತಿಶಾಲಿ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಶ್ರೇಷ್ಠ ರಾಜ. 1509 ರಿಂದ 1529 ರವರೆಗಿನ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಸಾಮ್ರಾಜ್ಯ ಭಾರತದಲ್ಲಿ ಅತಿ ದೊಡ್ಡದಾಯಿತು!",
+              "illustrationEmoji": "👑"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "The Scholar King",
+              "titleKn": "ವಿದ್ವಾಂಸ ರಾಜ",
+              "contentEn": "Krishnadevaraya wasn't just a warrior — he was also a great poet! He wrote the famous poem 'Amuktamalyada' in Telugu. He supported eight great poets called 'Ashtadiggajas' at his court. He built magnificent temples and promoted art and music.",
+              "contentKn": "ಕೃಷ್ಣದೇವರಾಯ ಕೇವಲ ಯೋಧನಲ್ಲ — ಅವರು ಮಹಾನ್ ಕವಿ! ಅವರು 'ಅಷ್ಟದಿಗ್ಗಜ'ಗಳೆಂಬ ಎಂಟು ಮಹಾ ಕವಿಗಳನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿದರು.",
+              "illustrationEmoji": "📖"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Hampi - The Wonder City",
+              "titleKn": "ಹಂಪಿ - ಅದ್ಭುತ ನಗರ",
+              "contentEn": "Krishnadevaraya's capital Hampi was a wonder! It had 500,000 people, beautiful temples, wide streets, and great markets. Today Hampi is a UNESCO World Heritage Site. When you visit, remember — this golden city was built by our own Karnataka king!",
+              "contentKn": "ಕೃಷ್ಣದೇವರಾಯನ ರಾಜಧಾನಿ ಹಂಪಿ ಒಂದು ಅದ್ಭುತ! 5,00,000 ಜನರಿದ್ದ ನಗರ. ಇಂದು ಹಂಪಿ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ.",
+              "illustrationEmoji": "🏛️"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "What is the name of Krishnadevaraya's famous poem?",
+              "questionKn": "ಕೃಷ್ಣದೇವರಾಯನ ಪ್ರಸಿದ್ಧ ಕಾವ್ಯದ ಹೆಸರೇನು?",
+              "optionsEn": ["Amuktamalyada", "Ramayana", "Mahabharata", "Vachana"],
+              "optionsKn": ["ಅಮುಕ್ತಮಾಲ್ಯದ", "ರಾಮಾಯಣ", "ಮಹಾಭಾರತ", "ವಚನ"],
+              "correctIndex": 0,
+              "explanationEn": "Krishnadevaraya wrote the famous poem Amuktamalyada.",
+              "explanationKn": "ಕೃಷ್ಣದೇವರಾಯ ಪ್ರಸಿದ್ಧ ಕಾವ್ಯ ಅಮುಕ್ತಮಾಲ್ಯದ ರಚಿಸಿದರು."
+            },
+            {
+              "questionEn": "What is Hampi today?",
+              "questionKn": "ಹಂಪಿ ಇಂದು ಏನಾಗಿದೆ?",
+              "optionsEn": ["UNESCO World Heritage Site", "Shopping mall", "Modern city", "Forest area"],
+              "optionsKn": ["ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ", "ಶಾಪಿಂಗ್ ಮಾಲ್", "ಆಧುನಿಕ ನಗರ", "ಕಾಡಿನ ಪ್ರದೇಶ"],
+              "correctIndex": 0,
+              "explanationEn": "Hampi is now a UNESCO World Heritage Site.",
+              "explanationKn": "ಹಂಪಿ ಈಗ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ."
+            },
+            {
+              "questionEn": "What were the 8 court poets of Krishnadevaraya called?",
+              "questionKn": "ಕೃಷ್ಣದೇವರಾಯನ 8 ಆಸ್ಥಾನ ಕವಿಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+              "optionsEn": ["Ashtadiggajas", "Navaratnas", "Saptarishis", "Panchatantra"],
+              "optionsKn": ["ಅಷ್ಟದಿಗ್ಗಜ", "ನವರತ್ನ", "ಸಪ್ತರಿಷಿ", "ಪಂಚತಂತ್ರ"],
+              "correctIndex": 0,
+              "explanationEn": "The 8 great poets in Krishnadevaraya's court were called Ashtadiggajas.",
+              "explanationKn": "ಕೃಷ್ಣದೇವರಾಯನ ಆಸ್ಥಾನದ 8 ಮಹಾ ಕವಿಗಳನ್ನು ಅಷ್ಟದಿಗ್ಗಜ ಎಂದು ಕರೆಯುತ್ತಾರೆ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hassan",
+      "nameEn": "Hassan",
+      "nameKn": "ಹಾಸನ",
+      "descriptionEn": "Land of Hoysala temples and ancient art",
+      "descriptionKn": "ಹೊಯ್ಸಳ ದೇವಾಲಯಗಳ ಮತ್ತು ಪ್ರಾಚೀನ ಕಲೆಯ ನಾಡು",
+      "colorIndex": 6,
+      "heroes": [
+        {
+          "id": "akkamahadevi",
+          "nameEn": "Akka Mahadevi",
+          "nameKn": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+          "districtId": "hassan",
+          "categoryEn": "Poet Saint & Social Reformer",
+          "categoryKn": "ಕವಿ ಸಂತ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕ",
+          "yearBorn": 1130,
+          "yearDied": 1160,
+          "shortBioEn": "The 12th century woman saint poet who challenged social norms through her spiritual poetry.",
+          "shortBioKn": "ಆಧ್ಯಾತ್ಮಿಕ ಕವಿತೆಗಳ ಮೂಲಕ ಸಾಮಾಜಿಕ ನಿಯಮಗಳನ್ನು ಸವಾಲು ಮಾಡಿದ 12 ನೇ ಶತಮಾನದ ಮಹಿಳಾ ಸಂತ ಕವಿ.",
+          "statueLat": 13.0297,
+          "statueLng": 76.1022,
+          "statueDescEn": "Akka Mahadevi Memorial, Shivamogga",
+          "statueDescKn": "ಅಕ್ಕ ಮಹಾದೇವಿ ಸ್ಮಾರಕ, ಶಿವಮೊಗ್ಗ",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Fearless Poet",
+              "titleKn": "ನಿರ್ಭೀತ ಕವಿ",
+              "contentEn": "Akka Mahadevi was born in Udutadi village around 1130. She was deeply spiritual from childhood. She wrote beautiful Vachanas (poems) to Lord Shiva whom she called 'Chennamallikarjuna.' She was one of the first women to speak freely about women's rights!",
+              "contentKn": "ಅಕ್ಕ ಮಹಾದೇವಿ ಸುಮಾರು 1130 ರಲ್ಲಿ ಉದುತಡಿ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ಅವರು 'ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ' ಎಂದು ಕರೆದ ಶಿವನ ಬಗ್ಗೆ ಸುಂದರ ವಚನಗಳನ್ನು ಬರೆದರು.",
+              "illustrationEmoji": "🌸"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Breaking Free",
+              "titleKn": "ಮುಕ್ತ ಜೀವನ",
+              "contentEn": "Akka Mahadevi refused to follow unfair social rules. She walked freely, wrote boldly, and spoke her truth. She joined the Anubhava Mantapa of Basavanna and debated with great scholars as an equal! In the 12th century, this was extraordinary!",
+              "contentKn": "ಅಕ್ಕ ಮಹಾದೇವಿ ಅನ್ಯಾಯದ ಸಾಮಾಜಿಕ ನಿಯಮಗಳನ್ನು ಪಾಲಿಸಲು ನಿರಾಕರಿಸಿದರು. ಅವರು ಬಸವಣ್ಣನ ಅನುಭವ ಮಂಟಪಕ್ಕೆ ಸೇರಿ ಮಹಾ ವಿದ್ವಾಂಸರೊಂದಿಗೆ ಸಮಾನ ಅಧಿಕಾರದಲ್ಲಿ ಚರ್ಚಿಸಿದರು!",
+              "illustrationEmoji": "🕊️"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Words That Live Forever",
+              "titleKn": "ಶಾಶ್ವತ ಮಾತುಗಳು",
+              "contentEn": "Akka Mahadevi's Vachanas are studied in schools even today! She wrote 430 poems that talk about love, freedom, and seeking truth. She is called 'Akka' meaning 'elder sister' — she is everyone's beloved elder sister in Karnataka!",
+              "contentKn": "ಅಕ್ಕ ಮಹಾದೇವಿಯ ವಚನಗಳನ್ನು ಇಂದಿಗೂ ಶಾಲೆಗಳಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಲಾಗುತ್ತದೆ! ಅವರು 430 ಕವಿತೆಗಳನ್ನು ಬರೆದರು.",
+              "illustrationEmoji": "📚"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "What does 'Akka' mean?",
+              "questionKn": "'ಅಕ್ಕ' ಎಂದರೆ ಏನು?",
+              "optionsEn": ["Elder Sister", "Mother", "Queen", "Goddess"],
+              "optionsKn": ["ಅಕ್ಕ", "ಅಮ್ಮ", "ರಾಣಿ", "ದೇವಿ"],
+              "correctIndex": 0,
+              "explanationEn": "Akka means elder sister — she is everyone's beloved elder sister in Karnataka.",
+              "explanationKn": "ಅಕ್ಕ ಎಂದರೆ ಅಕ್ಕ — ಕರ್ನಾಟಕದಲ್ಲಿ ಎಲ್ಲರ ಪ್ರಿಯ ಅಕ್ಕ."
+            },
+            {
+              "questionEn": "How many Vachanas did Akka Mahadevi write?",
+              "questionKn": "ಅಕ್ಕ ಮಹಾದೇವಿ ಎಷ್ಟು ವಚನಗಳನ್ನು ಬರೆದರು?",
+              "optionsEn": ["430", "100", "1000", "50"],
+              "optionsKn": ["430", "100", "1000", "50"],
+              "correctIndex": 0,
+              "explanationEn": "Akka Mahadevi wrote 430 Vachanas about love, freedom, and truth.",
+              "explanationKn": "ಅಕ್ಕ ಮಹಾದೇವಿ 430 ವಚನಗಳನ್ನು ಬರೆದರು."
+            },
+            {
+              "questionEn": "What name did Akka Mahadevi use for Lord Shiva in her poems?",
+              "questionKn": "ಅಕ್ಕ ಮಹಾದೇವಿ ತಮ್ಮ ಕವಿತೆಗಳಲ್ಲಿ ಶಿವನನ್ನು ಯಾವ ಹೆಸರಿನಿಂದ ಕರೆದರು?",
+              "optionsEn": ["Chennamallikarjuna", "Maheshwara", "Nataraja", "Ishwara"],
+              "optionsKn": ["ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ", "ಮಹೇಶ್ವರ", "ನಟರಾಜ", "ಈಶ್ವರ"],
+              "correctIndex": 0,
+              "explanationEn": "Akka Mahadevi called Lord Shiva 'Chennamallikarjuna' in her Vachanas.",
+              "explanationKn": "ಅಕ್ಕ ಮಹಾದೇವಿ ಶಿವನನ್ನು ವಚನಗಳಲ್ಲಿ 'ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ' ಎಂದು ಕರೆದರು."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tumakuru",
+      "nameEn": "Tumakuru",
+      "nameKn": "ತುಮಕೂರು",
+      "descriptionEn": "Land of coconut groves and ancient wisdom",
+      "descriptionKn": "ತೆಂಗಿನ ತೋಪುಗಳ ಮತ್ತು ಪ್ರಾಚೀನ ಜ್ಞಾನದ ನಾಡು",
+      "colorIndex": 7,
+      "heroes": [
+        {
+          "id": "siddalingaiah",
+          "nameEn": "Dr. Siddalingaiah",
+          "nameKn": "ಡಾ. ಸಿದ್ದಲಿಂಗಯ್ಯ",
+          "districtId": "tumakuru",
+          "categoryEn": "Poet & Social Activist",
+          "categoryKn": "ಕವಿ ಮತ್ತು ಸಮಾಜ ಹೋರಾಟಗಾರ",
+          "yearBorn": 1954,
+          "yearDied": 2021,
+          "shortBioEn": "The voice of the voiceless — poet and activist who championed the rights of the marginalized.",
+          "shortBioKn": "ದನಿ ಇಲ್ಲದವರ ದನಿ — ಅಂಚಿನಲ್ಲಿರುವವರ ಹಕ್ಕುಗಳಿಗಾಗಿ ಹೋರಾಡಿದ ಕವಿ ಮತ್ತು ಹೋರಾಟಗಾರ.",
+          "statueLat": 13.3400,
+          "statueLng": 77.1010,
+          "statueDescEn": "Dr. Siddalingaiah Memorial, Tumakuru",
+          "statueDescKn": "ಡಾ. ಸಿದ್ದಲಿಂಗಯ್ಯ ಸ್ಮಾರಕ, ತುಮಕೂರು",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Poet's Voice",
+              "titleKn": "ಕವಿಯ ದನಿ",
+              "contentEn": "Dr. Siddalingaiah was born in 1954 in Magadi, near Tumakuru. He grew up seeing how poor and marginalized people suffered. He decided to use the power of words to fight for justice. His poems became like powerful songs of freedom!",
+              "contentKn": "ಡಾ. ಸಿದ್ದಲಿಂಗಯ್ಯ 1954 ರಲ್ಲಿ ತುಮಕೂರು ಬಳಿ ಮಾಗಡಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಬಡ ಮತ್ತು ಅಂಚಿನ ಜನ ಹೇಗೆ ನೋವು ಅನುಭವಿಸುತ್ತಾರೆ ಎಂದು ಕಂಡು ಅವರು ನ್ಯಾಯಕ್ಕಾಗಿ ಪದಗಳ ಶಕ್ತಿ ಬಳಸಲು ನಿರ್ಧರಿಸಿದರು.",
+              "illustrationEmoji": "✍️"
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Words as Weapons",
+              "titleKn": "ಶಸ್ತ್ರವಾದ ಪದಗಳು",
+              "contentEn": "Siddalingaiah's poems were powerful and simple — even children could understand them. His collection 'Hole Maadigara Haadu' (Songs of the Outcastes) shook Karnataka's conscience. He became a professor at Bengaluru University and Karnataka's Official Poet Laureate!",
+              "contentKn": "ಸಿದ್ದಲಿಂಗಯ್ಯ ಅವರ ಕವಿತೆಗಳು ಶಕ್ತಿಶಾಲಿ ಮತ್ತು ಸರಳ. 'ಹೊಲೆ ಮಾದಿಗರ ಹಾಡು' ಕರ್ನಾಟಕದ ಆತ್ಮಸಾಕ್ಷಿಯನ್ನು ಅಲ್ಲಾಡಿಸಿತು.",
+              "illustrationEmoji": "📢"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Legacy of Justice",
+              "titleKn": "ನ್ಯಾಯದ ಪರಂಪರೆ",
+              "contentEn": "Dr. Siddalingaiah received the Karnataka Rajyotsava Award, Pampa Award, and many other honours. He was elected to Karnataka Legislative Council. He showed us that poetry can change society! He passed away in 2021, but his words live forever.",
+              "contentKn": "ಡಾ. ಸಿದ್ದಲಿಂಗಯ್ಯ ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ ಸ್ವೀಕರಿಸಿದರು. ಅವರು 2021 ರಲ್ಲಿ ನಿಧನರಾದರು, ಆದರೆ ಅವರ ಮಾತುಗಳು ಶಾಶ್ವತ.",
+              "illustrationEmoji": "⚖️"
+            }
+          ],
+          "quizQuestions": [
+            {
+              "questionEn": "What was Siddalingaiah's famous poetry collection called?",
+              "questionKn": "ಸಿದ್ದಲಿಂಗಯ್ಯನ ಪ್ರಸಿದ್ಧ ಕವಿತಾ ಸಂಕಲನದ ಹೆಸರೇನು?",
+              "optionsEn": ["Hole Maadigara Haadu", "Vachana Kosha", "Kuvempu Kavya", "Nadina Haadu"],
+              "optionsKn": ["ಹೊಲೆ ಮಾದಿಗರ ಹಾಡು", "ವಚನ ಕೋಶ", "ಕುವೆಂಪು ಕಾವ್ಯ", "ನಾಡಿನ ಹಾಡು"],
+              "correctIndex": 0,
+              "explanationEn": "Hole Maadigara Haadu (Songs of the Outcastes) is his famous poetry collection.",
+              "explanationKn": "ಹೊಲೆ ಮಾದಿಗರ ಹಾಡು ಅವರ ಪ್ರಸಿದ್ಧ ಕವಿತಾ ಸಂಕಲನ."
+            },
+            {
+              "questionEn": "Which award did Siddalingaiah receive?",
+              "questionKn": "ಸಿದ್ದಲಿಂಗಯ್ಯ ಯಾವ ಪ್ರಶಸ್ತಿ ಪಡೆದರು?",
+              "optionsEn": ["Pampa Award", "Booker Prize", "Nobel Prize", "Filmfare Award"],
+              "optionsKn": ["ಪಂಪ ಪ್ರಶಸ್ತಿ", "ಬೂಕರ್ ಪ್ರೈಜ್", "ನೊಬೆಲ್ ಪ್ರೈಜ್", "ಫಿಲ್ಮ್‌ಫೇರ್ ಅವಾರ್ಡ್"],
+              "correctIndex": 0,
+              "explanationEn": "Siddalingaiah received the prestigious Pampa Award for Kannada literature.",
+              "explanationKn": "ಸಿದ್ದಲಿಂಗಯ್ಯ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕಾಗಿ ಪ್ರತಿಷ್ಠಿತ ಪಂಪ ಪ್ರಶಸ್ತಿ ಪಡೆದರು."
+            },
+            {
+              "questionEn": "What did Siddalingaiah fight for through his poetry?",
+              "questionKn": "ಸಿದ್ದಲಿಂಗಯ್ಯ ತಮ್ಮ ಕವಿತೆಗಳ ಮೂಲಕ ಏನಕ್ಕಾಗಿ ಹೋರಾಡಿದರು?",
+              "optionsEn": ["Rights of the marginalized", "Animal rights", "Environmental protection", "Space exploration"],
+              "optionsKn": ["ಅಂಚಿನ ಜನರ ಹಕ್ಕುಗಳು", "ಪ್ರಾಣಿ ಹಕ್ಕುಗಳು", "ಪರಿಸರ ರಕ್ಷಣೆ", "ಬಾಹ್ಯಾಕಾಶ ಅನ್ವೇಷಣೆ"],
+              "correctIndex": 0,
+              "explanationEn": "Siddalingaiah used his poetry to fight for the rights of marginalized communities.",
+              "explanationKn": "ಸಿದ್ದಲಿಂಗಯ್ಯ ಅಂಚಿನ ಸಮುದಾಯಗಳ ಹಕ್ಕುಗಳಿಗಾಗಿ ಕವಿತೆ ಬಳಸಿದರು."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
